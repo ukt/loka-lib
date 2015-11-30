@@ -1,4 +1,4 @@
-package utils.loka.dataBase.scroll {
+package loka.dataBase.scroll {
 	/**
 	 * ...
 	 * @author loka

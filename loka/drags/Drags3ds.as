@@ -1,4 +1,4 @@
-package utils.loka.drags {
+package loka.drags {
 	
 
 
@@ -25,7 +25,7 @@ package utils.loka.drags {
 		
 		public function Drags3ds()
 		{
-			super();
+			super(null);
 		}
 
         public override function dispose():void

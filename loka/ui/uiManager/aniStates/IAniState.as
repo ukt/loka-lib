@@ -1,9 +1,9 @@
-package utils.loka.ui.uiManager.aniStates
+package loka.ui.uiManager.aniStates
 {
-	import utils.loka.globalInterface.IActivateDeactivate;
-	import utils.loka.globalInterface.IDispose;
-	import utils.loka.ui.uiI.ITicker;
-	import utils.loka.ui.uiManager.aniController.AniEvent;
+	import loka.globalInterface.IActivateDeactivate;
+	import loka.globalInterface.IDispose;
+	import loka.ui.uiI.ITicker;
+	import loka.ui.uiManager.aniController.AniEvent;
 
 	public interface IAniState extends IDispose, ITicker, IActivateDeactivate
 	{

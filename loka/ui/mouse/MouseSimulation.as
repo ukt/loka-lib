@@ -1,5 +1,5 @@
-package utils.loka.ui.mouse {
-import utils.loka.ui.*;
+package loka.ui.mouse {
+import loka.ui.*;
 
 import flash.display.DisplayObject;
 import flash.display.Sprite;
@@ -8,8 +8,8 @@ import flash.events.Event;
 import flash.geom.Point;
 import flash.geom.Rectangle;
 
-import utils.loka.autotesting.ui.DisplayObjectUtils;
-import utils.loka.ui.mouse.CursorType;
+import loka.autotesting.ui.DisplayObjectUtils;
+import loka.ui.mouse.CursorType;
 
 public class MouseSimulation {
 	[Embed(source="../cursor_hand.png")]

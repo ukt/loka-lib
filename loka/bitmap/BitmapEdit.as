@@ -1,4 +1,4 @@
-﻿package utils.loka.bitmap {
+﻿package loka.bitmap {
 	
 	import flash.display.Bitmap;
 	import flash.display.BitmapData;
@@ -6,7 +6,7 @@
 	import flash.display.PixelSnapping;
 	import flash.geom.Matrix;
 
-	import utils.loka.console.Console;
+	import loka.console.Console;
 
 	/**
 	 * ...

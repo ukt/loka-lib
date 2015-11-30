@@ -1,4 +1,4 @@
-package utils.loka.console.utils.ui {
+package loka.console.utils.ui {
 	
 	import flash.display.DisplayObject;
 	import flash.display.Loader;
@@ -109,11 +109,11 @@ import flash.text.TextFieldAutoSize;
 import flash.utils.ByteArray;
 import flash.utils.Dictionary;
 
-import utils.loka.autotesting.ui.DisplayObjectFab;
+import loka.autotesting.ui.DisplayObjectFab;
 
-import utils.loka.console.Console;
-import utils.loka.drags.Drags;
-import utils.loka.text.TextUtils;
+import loka.console.Console;
+import loka.drags.Drags;
+import loka.text.TextUtils;
 
 
 internal class HighLightElement {

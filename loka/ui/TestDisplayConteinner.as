@@ -1,4 +1,4 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
@@ -6,7 +6,7 @@ package utils.loka.ui
 	import flash.utils.Dictionary;
 	import flash.utils.Timer;
 	
-	import utils.loka.asUtils.Action;
+	import loka.asUtils.Action;
 
 	public class TestDisplayConteinner
 	{
@@ -40,7 +40,7 @@ package utils.loka.ui
 		{
 			if (!STRONG) 
 			{	
-				return void;
+				return;
 			}
 //			init();
 			for(var c:int; c < DO.numChildren; c++)

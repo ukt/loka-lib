@@ -1,4 +1,4 @@
-package utils.loka.asUtils
+package loka.asUtils
 {
 	import flash.display.Sprite;
 	import flash.events.Event;
@@ -10,9 +10,9 @@ package utils.loka.asUtils
 	import flash.text.TextFormat;
 	import flash.utils.getTimer;
 	
-	import utils.loka.asUtils.setInterval.IntervalCaller;
-	import utils.loka.drags.Drags;
-	import utils.loka.text.TextUtils;
+	import loka.asUtils.setInterval.IntervalCaller;
+	import loka.drags.Drags;
+	import loka.text.TextUtils;
 	
 //	import utils.asUtils.setInterval.IntervalCaller;
 

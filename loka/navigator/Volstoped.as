@@ -1,9 +1,9 @@
-﻿package utils.loka.navigator {
+﻿package loka.navigator {
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	
-	import utils.loka.loaders.ImgLoaderBox;
+	import loka.loaders.ImgLoaderBox;
 	
 	/**
 	 * ...

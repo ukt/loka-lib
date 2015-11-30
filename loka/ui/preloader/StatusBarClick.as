@@ -1,12 +1,12 @@
-﻿package utils.loka.ui.preloader {
+﻿package loka.ui.preloader {
 	import flash.display.Bitmap;
 	import flash.display.DisplayObject;
 	import flash.display.MovieClip;
 	import flash.display.Sprite;
 	import flash.events.*;
 	
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.tween.Tweener;
+	import loka.bitmap.BitmapEdit;
+	import loka.tween.Tweener;
 	
 	/**
 	 * ...

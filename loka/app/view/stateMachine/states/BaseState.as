@@ -1,4 +1,4 @@
-package utils.loka.app.view.stateMachine.states
+package loka.app.view.stateMachine.states
 {
 	import flash.display.DisplayObjectContainer;
 	

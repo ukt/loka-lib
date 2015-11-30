@@ -1,13 +1,13 @@
-package utils.loka.autotesting.actions {
+package loka.autotesting.actions {
 	import flash.display.Stage;
 	import flash.events.Event;
 	import flash.utils.getTimer;
 	
-	import utils.loka.autotesting.Testing;
-	import utils.loka.autotesting.actions.data.ActionData;
-	import utils.loka.autotesting.actions.data.IActionDataCollection;
-	import utils.loka.autotesting.actions.data.parser.ActionDataParser;
-	import utils.loka.console.ConsoleCommand;
+	import loka.autotesting.Testing;
+	import loka.autotesting.actions.data.ActionData;
+	import loka.autotesting.actions.data.IActionDataCollection;
+	import loka.autotesting.actions.data.parser.ActionDataParser;
+	import loka.console.ConsoleCommand;
 
 	public class Action {
 		

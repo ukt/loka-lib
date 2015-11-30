@@ -1,9 +1,9 @@
-package utils.loka.dataBase.scroll  {
+package loka.dataBase.scroll  {
 	import flash.display.Sprite;
 	import flash.geom.Rectangle;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.dataBase.Data;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.dataBase.Data;
 	
 	/**
 	 * ...

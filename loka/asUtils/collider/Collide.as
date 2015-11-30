@@ -1,7 +1,7 @@
-package utils.loka.asUtils.collider {
+package loka.asUtils.collider {
 	import flash.geom.Point;
-	import utils.loka.asUtils.collider.primitive.Circle;
-	import utils.loka.asUtils.collider.primitive.Segment;
+	import loka.asUtils.collider.primitive.Circle;
+	import loka.asUtils.collider.primitive.Segment;
 	
 	
 	

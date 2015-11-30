@@ -1,4 +1,4 @@
-﻿package utils.loka.button {
+﻿package loka.button {
 //	import Math.*;
 	
 	import flash.display.*;
@@ -6,10 +6,10 @@
 	import flash.geom.Matrix;
 	import flash.text.*;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.console.Console;
-	import utils.loka.filters.*;
-	import utils.loka.text.TextUtils;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.console.Console;
+	import loka.filters.*;
+	import loka.text.TextUtils;
 
 	/**
 	 * ...

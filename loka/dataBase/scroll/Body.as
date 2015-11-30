@@ -1,8 +1,8 @@
-﻿package utils.loka.dataBase.scroll  {
+﻿package loka.dataBase.scroll  {
 	import flash.display.Sprite;
 	import flash.events.*;
 	
-	import utils.loka.bitmap.BitmapEdit;
+	import loka.bitmap.BitmapEdit;
 	public class Body extends ScrollBase{
 		
 		public function Body(data:Array) {

@@ -1,10 +1,10 @@
-package utils.loka.loaders.loaderList {
+package loka.loaders.loaderList {
 	import flash.events.Event;
 	import flash.events.EventDispatcher;
 	import flash.net.URLRequestMethod;
 	import flash.utils.Dictionary;
 	
-	import utils.loka.loaders.LoaderConstans;
+	import loka.loaders.LoaderConstans;
 	
 	/**
 	 * ...

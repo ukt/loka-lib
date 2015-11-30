@@ -1,6 +1,6 @@
-package utils.loka.app.controller.command.network.amf
+package loka.app.controller.command.network.amf
 {
-	import utils.loka.app.controller.command.ICommand;
+	import loka.app.controller.command.ICommand;
 
 	/**
 	 * 

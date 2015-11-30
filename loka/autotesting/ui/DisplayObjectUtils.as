@@ -1,4 +1,4 @@
-package utils.loka.autotesting.ui {
+package loka.autotesting.ui {
 import flash.display.DisplayObject;
 import flash.display.DisplayObjectContainer;
 import flash.display.SimpleButton;

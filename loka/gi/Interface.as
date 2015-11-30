@@ -1,4 +1,4 @@
-package utils.loka.gi{
+package loka.gi{
 	//import filter.FilterConteiner;
 	import flash.display.Graphics;
 	import flash.display.LineScaleMode;
@@ -6,7 +6,7 @@ package utils.loka.gi{
 	import flash.display.Sprite;
 	import flash.text.TextField;
 	
-	import utils.loka.ui.text.GlobalTextFormat;
+	import loka.ui.text.GlobalTextFormat;
 
 	/**
 	 * ...

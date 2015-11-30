@@ -1,4 +1,4 @@
-package utils.loka.bitmap
+package loka.bitmap
 {
 	import flash.display.DisplayObject;
 	import flash.display.MovieClip;

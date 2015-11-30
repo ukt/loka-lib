@@ -1,4 +1,4 @@
-package utils.loka.ui.uiI
+package loka.ui.uiI
 {
 	public interface IModernSprite extends IEntityComplex
 	{

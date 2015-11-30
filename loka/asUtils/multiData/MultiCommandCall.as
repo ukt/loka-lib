@@ -1,4 +1,4 @@
-package utils.loka.asUtils.multiData
+package loka.asUtils.multiData
 {
 	import flash.utils.Dictionary;
 
@@ -70,7 +70,7 @@ package utils.loka.asUtils.multiData
 		
 	}
 }
-import utils.loka.asUtils.multiData.MultiCommandCall;
+import loka.asUtils.multiData.MultiCommandCall;
 
 internal class DataCall {
 	private var instance:MultiCommandCall;

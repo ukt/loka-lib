@@ -1,4 +1,4 @@
-package utils.loka.autotesting {
+package loka.autotesting {
 	import flash.display.DisplayObject;
 	import flash.display.Graphics;
 	import flash.display.Shape;
@@ -6,7 +6,7 @@ package utils.loka.autotesting {
 	import flash.events.Event;
 	import flash.geom.Point;
 	
-	import utils.loka.console.Console;
+	import loka.console.Console;
 	
 	public class LightPoint extends Sprite {
 		private var instance:DisplayObject;

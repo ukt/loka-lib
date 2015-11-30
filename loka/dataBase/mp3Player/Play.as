@@ -1,8 +1,8 @@
-﻿package utils.loka.dataBase.mp3Player {
+﻿package loka.dataBase.mp3Player {
 	import flash.display.*;
 	import flash.events.*;
 	
-	import utils.loka.dataBase.Data;
+	import loka.dataBase.Data;
 	//import gs.TweenMax;
 	//import gs.events.TweenEvent;
 	//import fl.motion.easing.Sine;

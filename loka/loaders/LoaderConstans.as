@@ -1,4 +1,4 @@
-﻿package utils.loka.loaders {
+﻿package loka.loaders {
 	/**
 	 * ...
 	 * @author loka

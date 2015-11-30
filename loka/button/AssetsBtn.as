@@ -1,4 +1,4 @@
-package utils.loka.button 
+package loka.button
 {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;

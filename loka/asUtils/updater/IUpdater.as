@@ -1,7 +1,7 @@
-package utils.loka.asUtils.updater
+package loka.asUtils.updater
 {
-	import utils.loka.globalInterface.IDispose;
-	import utils.loka.ui.uiI.ITicker;
+	import loka.globalInterface.IDispose;
+	import loka.ui.uiI.ITicker;
 
 	public interface IUpdater extends IDispose
 	{

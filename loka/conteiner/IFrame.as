@@ -1,12 +1,12 @@
-package utils.loka.conteiner
+package loka.conteiner
 {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	
-	import utils.loka.dataBase.scroll.Scroll;
-	import utils.loka.graph.Graph;
+	import loka.dataBase.scroll.Scroll;
+	import loka.graph.Graph;
 
 	public class IFrame extends Sprite
 	{

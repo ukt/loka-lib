@@ -1,4 +1,4 @@
-package utils.loka.asUtils.setInterval
+package loka.asUtils.setInterval
 {
 	import flash.events.TimerEvent;
 	import flash.utils.Dictionary;

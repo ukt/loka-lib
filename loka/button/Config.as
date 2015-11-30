@@ -1,9 +1,9 @@
-package utils.loka.button 
+package loka.button
 {
 	import flash.display.Bitmap;
 	import flash.display.DisplayObject;
 	
-	import utils.loka.bitmap.BitmapEdit;
+	import loka.bitmap.BitmapEdit;
 	/**
 	 * ...
 	 * @author loka

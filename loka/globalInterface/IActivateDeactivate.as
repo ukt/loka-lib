@@ -1,4 +1,4 @@
-package utils.loka.globalInterface
+package loka.globalInterface
 {
 	public interface IActivateDeactivate
 	{

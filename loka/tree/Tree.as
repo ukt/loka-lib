@@ -1,9 +1,9 @@
-package utils.loka.tree {
+package loka.tree {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.filters.DropShadowFilter;
 	
-	import utils.loka.bitmap.BitmapEdit;
+	import loka.bitmap.BitmapEdit;
 	
 	/**
 	 * ...

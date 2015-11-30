@@ -1,4 +1,4 @@
-﻿package utils.loka.drags {
+﻿package loka.drags {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
 	import flash.display.Loader;
@@ -11,7 +11,7 @@
 	import flash.utils.Dictionary;
 	import flash.utils.Timer;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
+	import loka.button.btnEffect.BtnEffect;
 
 
 	/**

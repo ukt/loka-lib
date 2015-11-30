@@ -1,7 +1,7 @@
 /**
  * Created by hsavenko on 10/15/2014.
  */
-package utils.loka.ui.mouse {
+package loka.ui.mouse {
 import flash.display.DisplayObject;
 import flash.display.Sprite;
 import flash.display.Stage;

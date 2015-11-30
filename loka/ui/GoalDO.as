@@ -1,7 +1,7 @@
 /**
  * Created by hsavenko on 9/10/2014.
  */
-package utils.loka.ui {
+package loka.ui {
 import flash.display.DisplayObject;
 import flash.geom.Point;
 

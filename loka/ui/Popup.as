@@ -1,4 +1,4 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.DisplayObject;
 	import flash.display.Graphics;
@@ -12,9 +12,9 @@ package utils.loka.ui
 	import flash.text.TextFieldAutoSize;
 	import flash.text.TextFormatAlign;
 	
-	import utils.loka.button.Btn;
-	import utils.loka.globalInterface.IDispose;
-	import utils.loka.text.TextUtils;
+	import loka.button.Btn;
+	import loka.globalInterface.IDispose;
+	import loka.text.TextUtils;
 	
 	/**
 	 * ...

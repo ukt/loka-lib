@@ -1,6 +1,6 @@
-package utils.loka.ui.uiI
+package loka.ui.uiI
 {
-	import utils.loka.globalInterface.IDispose;
+	import loka.globalInterface.IDispose;
 
 	public interface IAlive extends IDispose
 	{

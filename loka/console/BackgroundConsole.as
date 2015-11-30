@@ -1,12 +1,12 @@
-package utils.loka.console {
+package loka.console {
 	import flash.display.DisplayObject;
 	import flash.display.Shape;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.drags.Drags;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.drags.Drags;
 
 	public class BackgroundConsole extends Sprite {
 		private var _headerHeight:Number = 10;

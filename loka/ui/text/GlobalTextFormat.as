@@ -1,9 +1,9 @@
-package utils.loka.ui.text{
+package loka.ui.text{
 	
 	import flash.text.TextFormat;
 	import flash.text.TextFormatAlign;
 	
-	import utils.loka.GlobalConst;
+	import loka.GlobalConst;
 
 	/**
 	 * ...

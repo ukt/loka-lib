@@ -1,4 +1,4 @@
-package utils.loka.google
+package loka.google
 {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
@@ -13,9 +13,9 @@ package utils.loka.google
 	import flash.text.TextField;
 	import flash.text.TextFieldType;
 	
-	import utils.loka.button.Btn;
-	import utils.loka.console.Console;
-	import utils.loka.ui.Popup;
+	import loka.button.Btn;
+	import loka.console.Console;
+	import loka.ui.Popup;
 	
 	/**
 	 * ...

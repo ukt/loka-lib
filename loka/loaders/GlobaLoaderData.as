@@ -1,4 +1,4 @@
-package utils.loka.loaders {
+package loka.loaders {
 	import flash.display.Bitmap;
 	import flash.display.DisplayObject;
 	import flash.display.MovieClip;
@@ -9,9 +9,9 @@ package utils.loka.loaders {
 	import flash.system.ApplicationDomain;
 	import flash.utils.Dictionary;
 	
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.loaders.loaderList.EventLoader;
-	import utils.loka.loaders.loaderList.LoaderList;
+	import loka.bitmap.BitmapEdit;
+	import loka.loaders.loaderList.EventLoader;
+	import loka.loaders.loaderList.LoaderList;
 	
 	public class GlobaLoaderData extends EventDispatcher {
 		

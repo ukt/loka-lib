@@ -1,4 +1,4 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.Bitmap;
 	import flash.display.DisplayObjectContainer;
@@ -7,11 +7,11 @@ package utils.loka.ui
 	import flash.events.Event;
 	import flash.geom.Rectangle;
 	
-	import utils.loka.bitmap.AssetBitmap;
-	import utils.loka.bitmap.CashedData;
-	import utils.loka.ui.uiI.IEntityComplex;
-	import utils.loka.ui.uiI.IModernSprite;
-	import utils.loka.ui.vo.TickVO;
+	import loka.bitmap.AssetBitmap;
+	import loka.bitmap.CashedData;
+	import loka.ui.uiI.IEntityComplex;
+	import loka.ui.uiI.IModernSprite;
+	import loka.ui.vo.TickVO;
 	
 	
 	/**

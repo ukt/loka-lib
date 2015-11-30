@@ -1,4 +1,4 @@
-package utils.loka.loaders.loaderList
+package loka.loaders.loaderList
 {
 	import flash.events.Event;
 	

@@ -1,5 +1,5 @@
-package utils.loka.autotesting.actions.data.parser{
-	import utils.loka.autotesting.actions.data.IActionDataCollection;
+package loka.autotesting.actions.data.parser{
+	import loka.autotesting.actions.data.IActionDataCollection;
 
 	public class ActionDataParser implements IActionDataParser{
 		protected var data:Object;

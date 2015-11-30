@@ -1,4 +1,4 @@
-package utils.loka.console {
+package loka.console {
 	import flash.display.DisplayObjectContainer;
 	import flash.display.StageAlign;
 	import flash.events.Event;
@@ -10,7 +10,7 @@ package utils.loka.console {
 	import flash.text.TextFormat;
 	import flash.utils.getTimer;
 	
-	import utils.loka.console.utils.ui.DisplaObjectAutoAlign;
+	import loka.console.utils.ui.DisplaObjectAutoAlign;
 	
 	/**
 	 * version 3.0.0.3

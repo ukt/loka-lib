@@ -1,4 +1,4 @@
-package utils.loka.app.model
+package loka.app.model
 {
 	/**
 	 * 

@@ -1,7 +1,7 @@
-package utils.loka.ui.uiManager.aniController
+package loka.ui.uiManager.aniController
 {
-	import utils.loka.globalInterface.IDispose;
-	import utils.loka.ui.uiI.ITicker;
+	import loka.globalInterface.IDispose;
+	import loka.ui.uiI.ITicker;
 
 	public interface IAniController extends ITicker, IDispose
 	{

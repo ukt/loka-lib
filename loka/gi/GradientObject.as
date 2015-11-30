@@ -1,4 +1,4 @@
-package utils.loka.gi{
+package loka.gi{
 	import flash.display.GradientType;
 	import flash.display.SpreadMethod;
 	import flash.geom.Matrix;

@@ -1,10 +1,10 @@
-package utils.loka.app.controller
+package loka.app.controller
 {
 	import flash.events.EventDispatcher;
 	
-	import utils.loka.app.controller.command.ICommand;
-	import utils.loka.app.controller.instance.Instance;
-	import utils.loka.app.model.IModel;
+	import loka.app.controller.command.ICommand;
+	import loka.app.controller.instance.Instance;
+	import loka.app.model.IModel;
 
 	public class Controller extends EventDispatcher
 	{

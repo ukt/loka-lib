@@ -1,9 +1,9 @@
-package utils.loka.graph {
+package loka.graph {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.*;
 	
-	import utils.loka.drags.Drags;
+	import loka.drags.Drags;
 	
 	/**
 	 * ...
@@ -27,10 +27,9 @@ package utils.loka.graph {
 			this._y = y;
 			this._w = w;
 			this._h = h;
-				this._drags = new Drags();
+				this._drags = new Drags(this._Obj);
 				this._drags.addEventListener(Drags.DRAGED, Moved);
-				this._drags.dragElement(this._Obj);
-				
+
 				//this.addChild(this._Obj);
 			/*this._line.graphics.lineStyle(0, 0x000000, 1, true);
 			this._line.graphics.moveTo(this._x, this._y);

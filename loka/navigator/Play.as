@@ -1,8 +1,8 @@
-﻿package utils.loka.navigator {
+﻿package loka.navigator {
 	import flash.display.*;
 	import flash.events.*;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
+	import loka.button.btnEffect.BtnEffect;
 	//import gs.TweenMax;
 	//import gs.events.TweenEvent;
 	//import fl.motion.easing.Sine;

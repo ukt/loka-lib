@@ -1,4 +1,4 @@
-package utils.loka.ui.resize
+package loka.ui.resize
 {
     import flash.display.DisplayObject;
     

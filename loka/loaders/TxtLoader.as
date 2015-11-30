@@ -1,9 +1,9 @@
-﻿package utils.loka.loaders {
+﻿package loka.loaders {
 	import flash.display.*;
 	import flash.events.Event;
 	import flash.net.*;
 	
-	import utils.loka.console.Console;
+	import loka.console.Console;
 	/**
 	 * ...
 	 * @author loka

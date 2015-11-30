@@ -1,4 +1,4 @@
-package utils.loka.app.controller.instance
+package loka.app.controller.instance
 {
 	import flash.events.EventDispatcher;
 	import flash.utils.Dictionary;

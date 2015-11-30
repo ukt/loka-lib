@@ -1,4 +1,4 @@
-package utils.loka.app.controller.command.network
+package loka.app.controller.command.network
 {
 	import flash.events.AsyncErrorEvent;
 	import flash.events.Event;
@@ -11,8 +11,8 @@ package utils.loka.app.controller.command.network
 	import flash.net.ObjectEncoding;
 	import flash.net.Responder;
 	
-	import utils.loka.app.controller.command.network.amf.INetworkCommand;
-	import utils.loka.console.Console;
+	import loka.app.controller.command.network.amf.INetworkCommand;
+	import loka.console.Console;
 	
 	/**
 	 * 

@@ -1,4 +1,4 @@
-package utils.loka.filters {
+package loka.filters {
 	import flash.filters.ConvolutionFilter;
 	public class SampleFilters	{
 		

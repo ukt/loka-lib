@@ -1,7 +1,7 @@
-package utils.loka.ui.uiManager.aniStates
+package loka.ui.uiManager.aniStates
 {
-	import utils.loka.ui.uiManager.aniController.AniEvent;
-	import utils.loka.ui.vo.TickVO;
+	import loka.ui.uiManager.aniController.AniEvent;
+	import loka.ui.vo.TickVO;
 	
 	
 	/**

@@ -1,14 +1,14 @@
-package utils.loka.asUtils.updater
+package loka.asUtils.updater
 {
 	import flash.display.DisplayObject;
 	import flash.events.Event;
 	import flash.events.TimerEvent;
 	import flash.utils.getTimer;
 	
-	import utils.loka.globalInterface.IDispose;
-	import utils.loka.ui.uiI.IAlive;
-	import utils.loka.ui.uiI.ITicker;
-	import utils.loka.ui.vo.TickVO;
+	import loka.globalInterface.IDispose;
+	import loka.ui.uiI.IAlive;
+	import loka.ui.uiI.ITicker;
+	import loka.ui.vo.TickVO;
 	
 	public class Updater implements IUpdater
 	{

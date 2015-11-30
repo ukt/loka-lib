@@ -1,4 +1,4 @@
-package utils.loka.dataBase.radio {
+package loka.dataBase.radio {
 	import flash.display.Graphics;
 	import flash.display.LineScaleMode;
 	import flash.display.Sprite;
@@ -6,8 +6,8 @@ package utils.loka.dataBase.radio {
 	import flash.events.MouseEvent;
 	import flash.filters.GlowFilter;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.dataBase.Data;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.dataBase.Data;
 
 	/**
 	 * ...

@@ -1,4 +1,4 @@
-﻿package utils.loka.navigator {
+﻿package loka.navigator {
 	import flash.display.*;
 	import flash.events.Event;
 	import flash.events.MouseEvent;

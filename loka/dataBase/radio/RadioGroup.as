@@ -1,9 +1,9 @@
-package utils.loka.dataBase.radio {
+package loka.dataBase.radio {
 	import flash.display.DisplayObject;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	
-	import utils.loka.dataBase.Data;
+	import loka.dataBase.Data;
 	
 	/**
 	 * ...

@@ -1,16 +1,16 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.utils.*;
 	
-	import utils.loka.asUtils.updater.IUpdater;
-	import utils.loka.asUtils.updater.Updater;
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.ui.uiI.IEntityComplex;
-	import utils.loka.ui.uiI.IModernSprite;
-	import utils.loka.ui.vo.TickVO;
+	import loka.asUtils.updater.IUpdater;
+	import loka.asUtils.updater.Updater;
+	import loka.bitmap.BitmapEdit;
+	import loka.ui.uiI.IEntityComplex;
+	import loka.ui.uiI.IModernSprite;
+	import loka.ui.vo.TickVO;
 	
 	public class ModernSprite extends Sprite implements IModernSprite 
 	{

@@ -1,4 +1,4 @@
-package utils.loka.console
+package loka.console
 {
 	import flash.events.Event;
 	

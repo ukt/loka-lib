@@ -1,4 +1,4 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;

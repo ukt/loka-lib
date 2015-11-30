@@ -1,4 +1,4 @@
-package utils.loka.autotesting.actions.data {
+package loka.autotesting.actions.data {
 	public class ActionDataCollection implements IActionDataCollection{
 		private var data:Vector.<ActionData>;
 		private var index:int;

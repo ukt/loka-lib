@@ -1,4 +1,4 @@
-package utils.loka.asUtils
+package loka.asUtils
 {
 	import flash.events.TimerEvent;
 	import flash.utils.Timer;

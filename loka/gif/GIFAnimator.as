@@ -1,4 +1,4 @@
-﻿package utils.loka.gif
+﻿package loka.gif
 {
 	import flash.display.Bitmap;
 	import flash.display.BitmapData;

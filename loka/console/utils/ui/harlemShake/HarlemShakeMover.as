@@ -1,4 +1,4 @@
-package utils.loka.console.utils.ui.harlemShake
+package loka.console.utils.ui.harlemShake
 {
 	import flash.display.DisplayObject;
 	import flash.events.Event;

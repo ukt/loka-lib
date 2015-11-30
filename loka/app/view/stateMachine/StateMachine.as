@@ -1,9 +1,9 @@
-package utils.loka.app.view.stateMachine
+package loka.app.view.stateMachine
 {
 	import flash.display.DisplayObjectContainer;
 	import flash.utils.Dictionary;
 	
-	import utils.loka.app.view.stateMachine.states.IState;
+	import loka.app.view.stateMachine.states.IState;
 
 	/**
 	 * State machine beta version

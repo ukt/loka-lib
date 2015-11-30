@@ -1,4 +1,4 @@
-package utils.loka.app.controller.command.network.amf
+package loka.app.controller.command.network.amf
 {
 
 	/**

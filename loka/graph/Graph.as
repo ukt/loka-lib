@@ -1,4 +1,4 @@
-package utils.loka.graph {
+package loka.graph {
 	import flash.display.GradientType;
 	import flash.display.Shape;
 	import flash.display.SpreadMethod;

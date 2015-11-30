@@ -1,4 +1,4 @@
-package utils.loka.lightning
+package loka.lightning
 {
 	import flash.display.Sprite;
 	import flash.events.Event;

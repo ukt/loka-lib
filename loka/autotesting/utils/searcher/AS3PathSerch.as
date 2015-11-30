@@ -1,4 +1,4 @@
-package utils.loka.autotesting.utils.searcher
+package loka.autotesting.utils.searcher
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;

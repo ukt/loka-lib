@@ -1,4 +1,4 @@
-﻿package  utils.loka.loaders{
+﻿package  loka.loaders{
 	import flash.display.*;
 	import flash.events.*;
 	import flash.geom.Matrix;

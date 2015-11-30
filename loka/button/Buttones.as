@@ -1,10 +1,10 @@
-﻿package utils.loka.button
+﻿package loka.button
 {
 	import flash.display.*;
 	import flash.geom.Matrix;
 	import flash.text.*;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
+	import loka.button.btnEffect.BtnEffect;
 	
 	public class Buttones
 	{	

@@ -1,4 +1,4 @@
-package utils.loka.text
+package loka.text
 {
 	import flash.text.TextField;
 	import flash.text.TextFieldAutoSize;

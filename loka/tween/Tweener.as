@@ -1,4 +1,4 @@
-﻿package utils.loka.tween {
+﻿package loka.tween {
 	import flash.display.Shape;
 	import flash.events.Event;
 	import flash.events.TimerEvent;

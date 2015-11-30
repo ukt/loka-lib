@@ -1,4 +1,4 @@
-package utils.loka.autotesting.actions.data {
+package loka.autotesting.actions.data {
 	public class ActionData	{
 		private var _command:String;
 		private var _timeOut:uint;

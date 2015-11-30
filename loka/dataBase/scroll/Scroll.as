@@ -1,4 +1,4 @@
-﻿package utils.loka.dataBase.scroll {
+﻿package loka.dataBase.scroll {
 	import flash.display.DisplayObject;
 	import flash.events.Event;
 	import flash.geom.Rectangle;
@@ -11,7 +11,7 @@
 		private var _mc_scroll:Btnscroll;
 		private var _mc_up:Btnup;
 		private var _mc_down:Btndown;
-		private var _mc_body:utils.loka.dataBase.scroll.Body;
+		private var _mc_body:loka.dataBase.scroll.Body;
 		
 		public static const SCROLLS:String = "SCROLLS";
 		public function Scroll(w:Number = 10, h:Number = 100, x:Number = 0, y:Number = 0) {
@@ -40,7 +40,7 @@
 			this._mc_up.create(this._w, this._w, this._x, this._y);
 			this._mc_down = new Btndown(this.data);
 			this._mc_down.create(this._w, this._w, this._x, this._h - this._w);
-			this._mc_body = new utils.loka.dataBase.scroll.Body(this.data);
+			this._mc_body = new Body(this.data);
 			//trace("this.y="+this._y)
 			this._mc_body.create(this._w, this._h , this._x, this._y);
 			//

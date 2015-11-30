@@ -1,10 +1,10 @@
-package utils.loka.ui
+package loka.ui
 {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	
-	import utils.loka.bitmap.RectVO;
-	import utils.loka.loaders.GlobaLoaderData;
+	import loka.bitmap.RectVO;
+	import loka.loaders.GlobaLoaderData;
 	
 	public class ImgBoxAutoLoad extends Sprite
 	{

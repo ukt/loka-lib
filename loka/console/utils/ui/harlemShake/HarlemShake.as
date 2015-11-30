@@ -1,4 +1,4 @@
-package utils.loka.console.utils.ui.harlemShake
+package loka.console.utils.ui.harlemShake
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
@@ -9,7 +9,7 @@ package utils.loka.console.utils.ui.harlemShake
 	import flash.utils.getTimer;
 	import flash.utils.setTimeout;
 	
-	import utils.loka.console.Console;
+	import loka.console.Console;
 
 	public class HarlemShake
 	{

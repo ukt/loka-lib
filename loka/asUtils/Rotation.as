@@ -1,4 +1,4 @@
-package utils.loka.asUtils {
+package loka.asUtils {
 
 	/**
 	 * ...

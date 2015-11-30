@@ -1,4 +1,4 @@
-package utils.loka.asUtils.collider.primitive {
+package loka.asUtils.collider.primitive {
 	import flash.geom.Point;
 
 	/**

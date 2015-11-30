@@ -1,4 +1,4 @@
-package utils.loka.arrayfun {
+package loka.arrayfun {
 	
 	/**
 	 * ...

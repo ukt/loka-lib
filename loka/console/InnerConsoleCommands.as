@@ -1,4 +1,4 @@
-package utils.loka.console {
+package loka.console {
 	import flash.display.DisplayObject;
 	import flash.display.Stage;
 	import flash.events.MouseEvent;
@@ -6,10 +6,10 @@ package utils.loka.console {
 	import flash.geom.Point;
 	import flash.system.Capabilities;
 	
-	import utils.loka.asUtils.FPSGraphic;
-	import utils.loka.console.utils.ui.HighLightElements;
-	import utils.loka.console.utils.ui.harlemShake.HarlemShake;
-	import utils.loka.drags.Drags;
+	import loka.asUtils.FPSGraphic;
+	import loka.console.utils.ui.HighLightElements;
+	import loka.console.utils.ui.harlemShake.HarlemShake;
+	import loka.drags.Drags;
 	/**
 	 * ...
 	 * @author LoKa

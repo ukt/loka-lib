@@ -1,4 +1,4 @@
-package utils.loka.autotesting.utils.searcher {
+package loka.autotesting.utils.searcher {
 	public class CommandSearchCondition {
 		public var relativeName:Boolean = false;
 		public var moveToParent:Boolean = false;

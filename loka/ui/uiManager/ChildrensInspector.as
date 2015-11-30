@@ -1,4 +1,4 @@
-package utils.loka.ui.uiManager 
+package loka.ui.uiManager
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;

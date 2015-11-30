@@ -1,4 +1,4 @@
-﻿package utils.loka.button.btnEffect {
+﻿package loka.button.btnEffect {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.*;

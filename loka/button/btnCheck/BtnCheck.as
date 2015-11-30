@@ -1,9 +1,9 @@
-package utils.loka.button.btnCheck
+package loka.button.btnCheck
 {
     import flash.display.Sprite;
     
-    import utils.loka.button.Btn;
-    import utils.loka.button.btnEffect.BtnEffectCheck;
+    import loka.button.Btn;
+    import loka.button.btnEffect.BtnEffectCheck;
     
     
     /**

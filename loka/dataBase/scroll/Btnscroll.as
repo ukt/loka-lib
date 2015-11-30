@@ -1,9 +1,9 @@
-﻿package utils.loka.dataBase.scroll  {
+﻿package loka.dataBase.scroll  {
 	import flash.events.*;
 	import flash.geom.Rectangle;
 	
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.button.btnEffect.BtnEffect;
+	import loka.bitmap.BitmapEdit;
+	import loka.button.btnEffect.BtnEffect;
 	public class Btnscroll extends ScrollBase{
 		//private var _rect:Rectangle = new Rectangle(0, 10, 10, 90);
 		//private var _w:Number = 10;

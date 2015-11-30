@@ -1,9 +1,9 @@
-package utils.loka.autotesting.utils.searcher {
+package loka.autotesting.utils.searcher {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
 	import flash.display.Stage;
 	
-	import utils.loka.autotesting.ui.DisplayObjectUtils;
+	import loka.autotesting.ui.DisplayObjectUtils;
 	
 	public class AS3PathSerchVersion2 {
 		private var root:Stage;

@@ -1,4 +1,4 @@
-﻿package utils.loka.ui.preloader {
+﻿package loka.ui.preloader {
 //	import classes.Base;
 	import flash.display.LineScaleMode;
 	import flash.display.Sprite;

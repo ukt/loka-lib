@@ -1,4 +1,4 @@
-package utils.loka.text
+package loka.text
 {
 	import flash.display.DisplayObjectContainer;
 	import flash.geom.Rectangle;

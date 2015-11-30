@@ -1,13 +1,13 @@
-﻿package utils.loka.dataBase.select {
+﻿package loka.dataBase.select {
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	import flash.filters.DropShadowFilter;
 	import flash.text.TextField;
 	
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.dataBase.Data;
+	import loka.bitmap.BitmapEdit;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.dataBase.Data;
 
 	/**
 	 * ...

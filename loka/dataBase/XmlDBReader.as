@@ -1,8 +1,8 @@
-﻿package utils.loka.dataBase {
+﻿package loka.dataBase {
 	import flash.events.Event;
 	
-	import utils.loka.console.Console;
-	import utils.loka.loaders.*;
+	import loka.console.Console;
+	import loka.loaders.*;
 	
 	/**
 	 * ...

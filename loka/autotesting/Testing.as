@@ -1,4 +1,4 @@
-package utils.loka.autotesting {
+package loka.autotesting {
 import flash.display.Bitmap;
 import flash.display.BitmapData;
 import flash.display.DisplayObject;
@@ -33,15 +33,15 @@ import mx.graphics.codec.JPEGEncoder;
 import mx.graphics.codec.PNGEncoder;
 import mx.utils.Base64Encoder;
 
-import utils.loka.autotesting.actions.Action;
-import utils.loka.autotesting.actions.data.parser.JsonActionDataParser;
-import utils.loka.autotesting.ui.DisplayObjectFab;
-import utils.loka.autotesting.utils.searcher.AS3PathSearch;
-import utils.loka.console.Console;
-import utils.loka.console.ConsoleCommand;
-import utils.loka.console.utils.ui.SpriteWithBackground;
-import utils.loka.drags.Drags;
-import utils.loka.ui.mouse.MouseSimulation;
+import loka.autotesting.actions.Action;
+import loka.autotesting.actions.data.parser.JsonActionDataParser;
+import loka.autotesting.ui.DisplayObjectFab;
+import loka.autotesting.utils.searcher.AS3PathSearch;
+import loka.console.Console;
+import loka.console.ConsoleCommand;
+import loka.console.utils.ui.SpriteWithBackground;
+import loka.drags.Drags;
+import loka.ui.mouse.MouseSimulation;
 
 public class Testing {
 	private var root:DisplayObjectContainer;

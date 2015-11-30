@@ -1,11 +1,11 @@
-﻿package utils.loka.dataBase.select {
+﻿package loka.dataBase.select {
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	import flash.text.TextField;
 	
-	import utils.loka.dataBase.Data;
-	import utils.loka.dataBase.scroll.Scroll;
+	import loka.dataBase.Data;
+	import loka.dataBase.scroll.Scroll;
 
 	/**
 	 * ...

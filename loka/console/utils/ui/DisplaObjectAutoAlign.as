@@ -1,4 +1,4 @@
-package utils.loka.console.utils.ui {
+package loka.console.utils.ui {
 	import flash.display.DisplayObject;
 	import flash.display.LoaderInfo;
 	import flash.display.Stage;

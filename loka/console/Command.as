@@ -1,4 +1,4 @@
-package utils.loka.console {
+package loka.console {
 	internal class Command {
 		private var _name:String;
 

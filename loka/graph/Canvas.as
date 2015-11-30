@@ -1,4 +1,4 @@
-package utils.loka.graph {
+package loka.graph {
 	import flash.display.Sprite;
 	
 	/**

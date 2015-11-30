@@ -1,4 +1,4 @@
-﻿package utils.loka.mouse{
+﻿package loka.mouse{
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;
 	import flash.display.Sprite;
@@ -7,8 +7,8 @@
 	import flash.ui.Mouse;
 	import flash.utils.Timer;
 	
-	import utils.loka.loaders.LoaderConstans;
-	import utils.loka.loaders.loaderList.LoaderList;
+	import loka.loaders.LoaderConstans;
+	import loka.loaders.loaderList.LoaderList;
 
 	/**
 	 * ...

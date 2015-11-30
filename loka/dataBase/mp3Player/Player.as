@@ -1,12 +1,12 @@
-﻿package utils.loka.dataBase.mp3Player {
+﻿package loka.dataBase.mp3Player {
 	import flash.display.DisplayObject;
 	import flash.events.Event;
 	import flash.media.Sound;
 	import flash.media.SoundChannel;
 	import flash.net.URLRequest;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.dataBase.Data;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.dataBase.Data;
 	
 	/**
 	 * ...

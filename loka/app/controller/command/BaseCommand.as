@@ -1,7 +1,7 @@
-package utils.loka.app.controller.command
+package loka.app.controller.command
 {
-	import utils.loka.app.controller.Controller;
-	import utils.loka.app.controller.event.BaseEvent;
+	import loka.app.controller.Controller;
+	import loka.app.controller.event.BaseEvent;
 
 	/**
 	 * 

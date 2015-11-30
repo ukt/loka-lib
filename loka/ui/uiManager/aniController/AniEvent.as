@@ -1,4 +1,4 @@
-package utils.loka.ui.uiManager.aniController
+package loka.ui.uiManager.aniController
 {
 	import flash.events.Event;
 	

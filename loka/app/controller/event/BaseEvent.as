@@ -1,4 +1,4 @@
-package utils.loka.app.controller.event
+package loka.app.controller.event
 {
 	import flash.events.Event;
 	

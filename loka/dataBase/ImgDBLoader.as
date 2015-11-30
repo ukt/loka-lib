@@ -1,9 +1,9 @@
-﻿package utils.loka.dataBase {
+﻿package loka.dataBase {
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	
-	import utils.loka.loaders.*;
+	import loka.loaders.*;
 	/**
 	 * ...
 	 * @author loka

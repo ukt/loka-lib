@@ -1,4 +1,4 @@
-﻿package utils.loka.bitmap {
+﻿package loka.bitmap {
 /* ***********************************************************************
 ActionScript 3 Tutorial by Barbara Kaskosz
 

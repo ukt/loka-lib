@@ -1,7 +1,7 @@
 /**
  * Created by hsavenko on 10/15/2014.
  */
-package utils.loka.console.utils.ui {
+package loka.console.utils.ui {
 import flash.display.DisplayObject;
 import flash.display.Graphics;
 import flash.display.Sprite;

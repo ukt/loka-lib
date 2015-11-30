@@ -1,4 +1,4 @@
-package utils.loka.loaders.loaderList {
+package loka.loaders.loaderList {
 	import flash.display.Loader;
 	import flash.events.Event;
 	import flash.events.EventDispatcher;
@@ -10,8 +10,8 @@ package utils.loka.loaders.loaderList {
 	import flash.system.LoaderContext;
 	import flash.utils.Dictionary;
 	
-	import utils.loka.console.Console;
-	import utils.loka.loaders.LoaderConstans;
+	import loka.console.Console;
+	import loka.loaders.LoaderConstans;
 	
 	/**
 	 * ...

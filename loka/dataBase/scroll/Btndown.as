@@ -1,8 +1,8 @@
-﻿package utils.loka.dataBase.scroll  {
+﻿package loka.dataBase.scroll  {
 	import flash.events.*;
 	
-	import utils.loka.bitmap.BitmapEdit;
-	import utils.loka.button.btnEffect.BtnEffect;
+	import loka.bitmap.BitmapEdit;
+	import loka.button.btnEffect.BtnEffect;
 	public class Btndown extends ScrollBase{
 		//private var _btnEffect:BtnEffect;
 		public function Btndown(data:Array) {

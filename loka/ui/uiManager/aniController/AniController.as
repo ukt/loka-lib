@@ -1,4 +1,4 @@
-package utils.loka.ui.uiManager.aniController
+package loka.ui.uiManager.aniController
 {
 	import flash.display.FrameLabel;
 	import flash.display.MovieClip;
@@ -7,7 +7,7 @@ package utils.loka.ui.uiManager.aniController
 	import flash.utils.Dictionary;
 	import flash.utils.getTimer;
 	
-	import utils.loka.ui.vo.TickVO;
+	import loka.ui.vo.TickVO;
 	
 	/**
 	 * ...

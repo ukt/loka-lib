@@ -1,4 +1,4 @@
-﻿package utils.loka.dataBase {
+﻿package loka.dataBase {
 	import flash.display.Sprite;
 	/**
 	 * ...

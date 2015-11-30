@@ -1,13 +1,13 @@
-package utils.loka.ui.uiManager.aniStates
+package loka.ui.uiManager.aniStates
 {
 	import flash.display.MovieClip;
 	import flash.events.Event;
 	import flash.utils.Dictionary;
 	
-	import utils.loka.ui.ModernSprite;
-	import utils.loka.ui.uiManager.aniController.AniController;
-	import utils.loka.ui.uiManager.aniController.AniEvent;
-	import utils.loka.ui.vo.TickVO;
+	import loka.ui.ModernSprite;
+	import loka.ui.uiManager.aniController.AniController;
+	import loka.ui.uiManager.aniController.AniEvent;
+	import loka.ui.vo.TickVO;
 	
 	
 	/**

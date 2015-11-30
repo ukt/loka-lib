@@ -1,7 +1,7 @@
-package utils.loka.app.controller.command.network.amf
+package loka.app.controller.command.network.amf
 {
-	import utils.loka.app.controller.Controller;
-	import utils.loka.app.controller.command.network.AmfNetwornk;
+	import loka.app.controller.Controller;
+	import loka.app.controller.command.network.AmfNetwornk;
 
 	/**
 	 * 

@@ -1,9 +1,9 @@
-package utils.loka.app.view.stateMachine.states
+package loka.app.view.stateMachine.states
 {
 	import flash.display.DisplayObjectContainer;
 	
-	import utils.loka.globalInterface.IActivateDeactivate;
-	import utils.loka.globalInterface.IDispose;
+	import loka.globalInterface.IActivateDeactivate;
+	import loka.globalInterface.IDispose;
 
 	/**
 	 *	Интерфейс сущности стейтоа.

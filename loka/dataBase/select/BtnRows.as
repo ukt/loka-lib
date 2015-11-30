@@ -1,8 +1,8 @@
-﻿package utils.loka.dataBase.select {
+﻿package loka.dataBase.select {
 	import flash.display.Sprite;
 	
-	import utils.loka.button.btnEffect.BtnEffect;
-	import utils.loka.dataBase.Data;
+	import loka.button.btnEffect.BtnEffect;
+	import loka.dataBase.Data;
 	
 	/**
 	 * ...
