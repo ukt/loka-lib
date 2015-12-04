@@ -1,7 +1,7 @@
 package loka.app.view.stateMachine.states
 {
 	import flash.display.DisplayObjectContainer;
-	
+
 	/**
 	 * Базовая сущность стейта, Не хранит логики, упрощает работу и исбавляет от излишней копипасты
 	 * @author loka
@@ -9,7 +9,7 @@ package loka.app.view.stateMachine.states
 	 */
 	public class BaseState implements IState
 	{
-		private var _doc:DisplayObjectContainer
+		private var _doc:DisplayObjectContainer;
 		private var _alias:String;
 		private var _isDispose:Boolean = false;
 		

@@ -1,11 +1,13 @@
 ﻿package loka.button
 {
 	import flash.display.*;
+	import flash.filters.GlowFilter;
 	import flash.geom.Matrix;
 	import flash.text.*;
-	
+
 	import loka.button.btnEffect.BtnEffect;
-	
+	import loka.text.TextUtils;
+
 	public class Buttones
 	{	
 		public static function createRectBtn(x:Number,y:Number,width:Number,Text:String = ""):MovieClip
@@ -31,6 +33,8 @@
 			btn.height = width/4;
 			txt.y = 20/2-txt.height/2;
 			txt.x = 25 - txt.width / 2;
+			txt.filters = [new GlowFilter(0xffffff, 1, 2, 2, 12)];
+			TextUtils.setBold(txt, true);
 			btn.addChild(txt);
 			
 			btn.useHandCursor = true;
