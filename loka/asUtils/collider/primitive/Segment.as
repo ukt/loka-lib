@@ -30,7 +30,6 @@ package loka.asUtils.collider.primitive {
 		public function set point2(value:Point):void {		
 			_p2 = value;
 		}
-		
 	}
 
 }
