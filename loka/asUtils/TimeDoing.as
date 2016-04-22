@@ -35,6 +35,10 @@ package loka.asUtils {
 				return 666;
 			}
 		}
+
+		public static function traceTime(name:String, timeType:String = "milliseconds"):void {
+			trace(name, getTime(name, timeType));
+		}
 	}
 
 }
