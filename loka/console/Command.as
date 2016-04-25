@@ -14,10 +14,14 @@ package loka.console {
 		public function call(params:Array = null):Object {
 			try {
 				if(_command.length > 0) {
-					if(params is Array){
-						return _command.apply(null, params);
-					} else {
-						return _command.call(null, params);
+					try {
+						if (params is Array) {
+							return _command.apply(null, params);
+						} else {
+							return _command.call(null, params);
+						}
+					} catch (e:TypeError){
+						return _command.call(null, null);
 					}
 				} else {
 					return _command.call();
